@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <img src="../../assets/img/home_finance_slider_bg.jpg" alt="" />
+    <img src="../../assets/img/home_finance_slider_bg.jpg" alt="mappa mondo " />
     <h1>Right Peoples<span>.</span> Right Investments<span>.</span></h1>
   </div>
 </template>
