@@ -27,6 +27,9 @@ export default {
 <style lang="scss" scoped>
 @import "../../assets/style/global.scss";
 header {
+  img {
+    cursor: pointer;
+  }
   display: flex;
   justify-content: space-between;
   align-items: center;

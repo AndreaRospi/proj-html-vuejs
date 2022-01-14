@@ -50,6 +50,9 @@ export default {
   align-items: center;
   justify-content: space-around;
   background-color: #1a1b21;
+  img {
+    cursor: pointer;
+  }
   .post {
     h2 {
       color: white;
