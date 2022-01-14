@@ -58,6 +58,7 @@ export default {
 @import "../../assets/style/global.scss";
 .container {
   background-color: #f9f9f9;
+  padding-bottom: 50px;
   .box {
     width: 60%;
     text-align: center;

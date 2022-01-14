@@ -25,7 +25,7 @@ export default {
     transform: translate(-50%, -50%);
     color: white;
     font-weight: 300;
-    font-size: 70px;
+    font-size: 50px;
     span {
       color: #5ddecc;
     }

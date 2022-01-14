@@ -4,6 +4,7 @@
     <Client />
     <Cloud />
     <SpecialtyServices />
+    <Investment />
   </main>
 </template>
 
@@ -12,6 +13,7 @@ import Jumbo from "../elements/Jumbo.vue";
 import Client from "../elements/Client.vue";
 import Cloud from "../elements/Cloud.vue";
 import SpecialtyServices from "../elements/SpecialtyServices.vue";
+import Investment from "../elements/Investment.vue";
 
 export default {
   name: "main",
@@ -20,6 +22,7 @@ export default {
     Client,
     Cloud,
     SpecialtyServices,
+    Investment,
   },
 };
 </script>
