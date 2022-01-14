@@ -6,6 +6,7 @@
     <SpecialtyServices />
     <Investment />
     <ClientFeedback />
+    <Talk />
   </main>
 </template>
 
@@ -16,6 +17,7 @@ import Cloud from "../elements/Cloud.vue";
 import SpecialtyServices from "../elements/SpecialtyServices.vue";
 import Investment from "../elements/Investment.vue";
 import ClientFeedback from "../elements/ClientFeedback.vue";
+import Talk from "../elements/Talk.vue";
 
 export default {
   name: "main",
@@ -26,6 +28,7 @@ export default {
     SpecialtyServices,
     Investment,
     ClientFeedback,
+    Talk,
   },
 };
 </script>
