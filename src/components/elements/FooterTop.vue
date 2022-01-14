@@ -69,6 +69,12 @@ export default {
         margin-left: 5px;
       }
     }
+    li:hover {
+      color: #04c5e8;
+    }
+    a:hover {
+      color: #04c5e8;
+    }
   }
   .services {
     h2 {
@@ -88,6 +94,12 @@ export default {
         color: #787878;
         margin-left: 5px;
       }
+    }
+    li:hover {
+      color: #04c5e8;
+    }
+    a:hover {
+      color: #04c5e8;
     }
   }
   .latest {
