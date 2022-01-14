@@ -8,7 +8,7 @@
     </div>
     <div class="navigation">
       <NavBar />
-      <div class="button">contact</div>
+      <div class="button-big">contact</div>
       <a href="#">+</a>
     </div>
   </header>

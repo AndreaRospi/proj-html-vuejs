@@ -50,6 +50,7 @@ export default {
 .container {
   height: 150px;
   display: flex;
+  justify-content: space-around;
   background-color: #f9f9f9;
   .box {
     display: flex;
@@ -57,7 +58,6 @@ export default {
     img {
       cursor: pointer;
       filter: invert(0.6);
-      padding: 0 30px;
     }
   }
 }
