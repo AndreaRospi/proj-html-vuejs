@@ -37,7 +37,7 @@ export default {
     margin-right: 30px;
     h1 {
       font-size: 50px;
-      font-weight: 400;
+      font-weight: 300;
     }
     hr {
       border: 1px solid #1a3154;
