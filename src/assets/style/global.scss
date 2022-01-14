@@ -1,0 +1,23 @@
+@import'partials/variables';
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+// ****Typography****
+body{
+    font-family:$font-primary;
+}
+
+.button{
+    background-color:#5ddecc ;
+    color: #ffff;
+    border-radius: 2rem;
+    padding: 15px 40px;
+    margin: 0 50px;
+    text-transform: uppercase;
+    cursor: pointer;
+
+}
